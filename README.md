@@ -33,7 +33,7 @@ Durante as aulas foram realizandos vários estudos nessos dados disponibilizados
 
 ## O Desafio Final do Curso
 
-Como desafio final do curso foi proposto que fizessemos um estudo dos dados disponibilizados, onde tentariamos seguir a linha do que a competição pede. O código dos estudos estão disponiveis no arquivo _desafio.ipynb_ na pasta _Notebooks_.
+Como desafio final do curso foi proposto que fizessemos um estudo dos dados disponibilizados, onde tentariamos seguir a linha do que a competição pede. O código dos estudos estão disponiveis no arquivo _primeira_analise.ipynb_ na pasta _Notebooks_.
 
 
 
