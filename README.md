@@ -1,6 +1,42 @@
 
 # Desafio Final Imersão Dados
 
+Este gitbhub, é um projeto que tem como objetivo estudar Ciência de Dados. E foi idealizado durante o Curso de Imersão Dados aplicado pela <a href="https://www.alura.com.br/">Alura</a>, a partir de uma competição realizanda no Kaggle.
+
+## O Kaggle
+
+Esse projeto foi inspirado em uma competição do <a href="https://www.kaggle.com/c/lish-moa">kaggle</a>, onde que tem os dados disponiblizados pelo <a href="https://lish.harvard.edu/">Laboratory Innovation Science at Harvad</a>. 
+
+A competição do <a href="https://www.kaggle.com/c/lish-moa">kaggle</a> tem como objetivo principal, melhorar o algoritmo que classifica os medicamento com base em sua ativação biológica, ou seja, identifcar quais "drogas" ativam quais mecanismos de ação (MoA).
+ 
+Neste nosso projeto, seguiremos a mesma linha de da competição e tentaremos propor algum algoritmo que consiga melhora essa predição. 
+
+### Os Dados
+
+Um conjunto de dados exclusivo que combina a expressão gênica e os dados de viabilidade celular. Os dados são baseados em uma nova tecnologia que mede simultaneamente (nas mesmas amostras) as respostas das células humanas aos medicamentos em um pool de 100 tipos de células diferentes (resolvendo assim o problema de identificação ex-ante, quais tipos de células são mais adequados para um determinado medicamento). Além disso, contém às anotações do MoA para mais de 5.000 medicamentos neste conjunto de dados.
+
+### Validação
+
+Com base nas anotações de MoA, a precisão das soluções será avaliada no valor médio da função de perda logarítmica aplicada a cada par de anotação de droga-MoA.
+
+## O Curso de Imersão de Dados
+
+### Sobre os Dados
+
+Usaremos os dados como foram disponibilizados pela Alura durante o curo se Imersão de Dados. Os dados se encontram na pasta _Dados_, e estão dividido em dois arquivos: 
+* _dados_experimentos.zip_, contém as informações dos experimentos, são elas: id, tratamento, tempo, dose, droga, expreção genica e tipos de células
+* _dados_resultados.csv_, contém a relção de entre os experementos e os MoA's. 
+
+### Sobre as Aulas
+
+Durante as aulas foram realizandos vários estudos nessos dados disponibilizados, esse estudos estão disponíveis no arquivo "Aulas.ipynb" dentro da pasta "Notebooks".
+
+## O Desafio Final do Curso
+
+Como desafio final do curso foi proposto que fizessemos um estudo dos dados disponibilizados, onde tentariamos seguir a linha do que a competição pede. O código dos estudos estão disponiveis no arquivo _desafio.ipynb_ na pasta _Notebooks_.
+
+
+
 **Olá Cientistas!**
 
 Neste repositório você vai encontrar todas as informações necessárias para o desenvolvimento do projeto final da Imersão Dados.
