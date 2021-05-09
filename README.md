@@ -35,7 +35,7 @@ Durante as aulas foram realizandos vários estudos nessos dados disponibilizados
 
 Como desafio final do curso foi proposto que fizessemos um estudo dos dados disponibilizados, onde tentariamos seguir a linha do que a competição pede. O código dos estudos estão disponiveis no arquivo _primeira_analise.ipynb_ na pasta _Notebooks_.
 
-### o Estudo
+### O Estudo
  
 No notebook _primeira_analise.ipynb_ encontrasse detalhadamente os estudos efetuados. 
 Aqui iremos somente apresenta a analise final do estudo.
