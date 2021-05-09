@@ -50,7 +50,7 @@ Então propomos uma segunda abortagem, classificar segundo uma ação expecifica
 
 Extendendo um pouco, propomos um segundo modelo, classificar segundo a ação "antiarrhythmic", esta é um ação com somete um MoA relacionado e contém somente 6 ocorrências. Os resultados foram: baseline 99.9% e regressão logistica 99.9%. Esse pode parecer um resultado bom, mas na realidade não é, isso por que como evidenciado no baseline, se o classificador selecionar para todas ocorrência a classe "não ativado" a precissão encontrada é 99.9%. Mas na realidade não consegui classificar visto que não encontrou o experimento com MoA ativo. Assim podemos dizer que para MoA's com poucas ocorrência a dificuldade de classificação é ainda maior.
 
-####Trabalhos futuros
+#### Trabalhos futuros
 
 Como sugestão para trabalhos futuros, propomos:
  * Usar outros classificadores mais complexos.
